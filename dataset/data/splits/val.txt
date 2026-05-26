@@ -1,0 +1,11 @@
+Bird2
+Fish
+Human4
+ClifBar
+Bolt
+MountainBike
+CarDark
+Man
+Basketball
+Crowds
+Box
